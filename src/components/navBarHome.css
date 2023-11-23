@@ -1,0 +1,28 @@
+a{
+    padding: auto;
+    padding-right: 15px;
+
+}
+
+*{
+    background-color: #1A1841;
+}
+
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .centered-image img {
+    max-width: 600px; /* Ajuste o tamanho da imagem conforme necessário */
+    padding-left: 450px;
+    padding-bottom: 150px;
+  }
+
+  .cor{
+    background-color: #1A1841;
+  }
+.bg-body-tertiary navbar navbar-expand navbar-light{
+  background-color:#1A1841 !important;
+}
